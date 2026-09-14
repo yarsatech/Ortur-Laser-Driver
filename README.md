@@ -1,4 +1,4 @@
-# Ortur Laser Driver PCB
+# Ortur Laser Driver PCB 
 
 This is a homebrew PCB replacement for the LU2-4 LF laser module driver PCB used by ortur lasers.
 
